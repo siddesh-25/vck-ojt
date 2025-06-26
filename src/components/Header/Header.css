@@ -1,0 +1,17 @@
+.nav-hed-ove{
+  background-color: #007bff;
+  color: black;
+  font-weight: 500;
+  text-decoration-color: white;
+}
+.nav-hed{
+  color: white;
+}
+.basic-navbar-nav{
+  color: black;
+}
+.but-hed{
+  max-width:300;
+  margin: auto;
+  
+}
